@@ -1,0 +1,9 @@
+
+404 error at 01-09-2016 00:48:16: http://localhost/this-route-does-not-exist/
+404 error at 01-09-2016 10:58:50: http://127.0.0.1:5000/favicon.ico
+500 error at 01-09-2016 10:58:55: http://127.0.0.1:5000/
+500 error at 01-09-2016 10:59:04: http://127.0.0.1:5000/
+404 error at 01-09-2016 11:40:54: http://0.0.0.0:5000/favicon.ico
+500 error at 01-09-2016 11:54:32: http://0.0.0.0:5000/register/
+500 error at 01-09-2016 11:55:27: http://0.0.0.0:5000/register/
+404 error at 01-09-2016 12:40:40: http://localhost/this-route-does-not-exist/
