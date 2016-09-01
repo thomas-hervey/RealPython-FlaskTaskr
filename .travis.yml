@@ -15,5 +15,5 @@ deploy:
   app: secure-lowlands-82682
   on:
     branch: master
-    python '3.4'
+    python: '3.4'
     repo: tomtom92/FlaskTaskr
